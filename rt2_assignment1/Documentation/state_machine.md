@@ -6,7 +6,7 @@ Inside this file I defined two different classes GoalPositionClient and StateMac
 	
 Declared in the file state_machine.cpp
 	
-	@brief : This function is called when I want to make a request to the server go_to_point. It calls the server and then wait for the response.
+@brief : This function is called when I want to make a request to the server go_to_point. It calls the server and then wait for the response.
 	
 ### void handle_service(const std::shared_ptr<rmw_request_id_t> request_header, const std::shared_ptr<UserInt::Request> request, const std::shared_ptr<UserInt::Response> response)	
 
