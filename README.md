@@ -9,7 +9,8 @@ This simulations runs on VRep instead of gazebo.
 # HOW TO RUN
 To run this problem it is necessary to open two terminals: 
 In the first terminal go in a ros workspace and run
-- roslaunch rt2_assignment1 sim.launch
+- roslaunch rt2_assignment1 sim.launch 
+
 In the second terminal make sure to have at least one ros workspace active and to have sourced the correct version of ros. Go in the folder of CoppeliaSim_Edu_V4_2_0_Ubuntu20_04 and run
 - ./coppeliaSim.sh
 
