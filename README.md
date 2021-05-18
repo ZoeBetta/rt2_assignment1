@@ -15,7 +15,7 @@ To start the simulation run:
 
 To compile the simulation: 
 inside the ros noetic workspace run:
--catkin_make
+- catkin_make
 Inside the ros2 foxy workspace run to build only the package:
 - colcon build --symlink-install --packages-skip ros1_bridge
 Inside the ros2 foxy workspace run to build only the bridge:
