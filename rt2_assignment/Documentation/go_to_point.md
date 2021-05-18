@@ -61,7 +61,7 @@ Defined in the file go_to_point.py
 
 Defined in the file go_to_point.py
 
-@brief : it retrieves the desired position and orientation. It is first checked if the action is preempted and if that is the case all the velocity are set to zero and the action is set preempted. It then checks the state and depending on it it calls the corresponding function. 
+@brief : it retrieves the desired position and orientation. It then checks the state and depending on it it calls the corresponding function. 
 
 @param : goal - It is the request the action server receives. It contains goal position and orientation
 
