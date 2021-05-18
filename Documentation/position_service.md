@@ -16,6 +16,8 @@ Declared in the file position_service.cpp
 
 ### myrandom (rt2_assignment1::RandomPosition::Request &req, rt2_assignment1::RandomPosition::Response &res)
 
+Declared in the file position_service.cpp
+
 @brief : This function is called when I have a request, it reads the request and as a response sends the coordinates of the goal position and orientation. This function receives as input the server request and a pointer to the server response. The server requests are the ranges of the x, y in which I want to generate the random position. It then calls the function randMtoN to generate a random number in a given interval for the x, y and theta.
 
 @param : rt2_assignment1::RandomPosition::Request &req
