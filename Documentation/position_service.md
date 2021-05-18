@@ -22,4 +22,3 @@ Declared in the file position_service.cpp
 
 @param : rt2_assignment1::RandomPosition::Request &req
 
-@param :
