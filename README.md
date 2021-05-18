@@ -14,6 +14,8 @@ In the first terminal go in a ros workspace and run
 In the second terminal make sure to have at least one ros workspace active and to have sourced the correct version of ros. Go in the folder of CoppeliaSim_Edu_V4_2_0_Ubuntu20_04 and run
 - ./coppeliaSim.sh
 
+Once the Coppelia Sim Software started in order to open the correct scene go in file, upper left corner, Open scene and select the scene Simulation.ttt
+
 It is really important to run first the ros launch and only after opening VRep.
 
 # ROBOT BEHAVIOUR
